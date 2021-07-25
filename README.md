@@ -6,12 +6,14 @@
 <br>
 <br>
 ![](http://img.shields.io/badge/-ruby-CC342D?style=for-the-badge&logo=Ruby&logoColor=white)  ![](http://img.shields.io/badge/-java-E8E8E8?style=for-the-badge&logo=Java&logoColor=red) 
-<br>
-<br>
+
+![](http://img.shields.io/badge/-atom-green?style=for-the-badge&logo=Atom&logoColor=66595C)  ![](http://img.shields.io/badge/-anaconda-black?style=for-the-badge&logo=anaconda&logoColor=44A833) 
+
 <br>
 🌼 Used 
 <br>
 <br>
+
 <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=yellow">      ![](http://img.shields.io/badge/-html-orange?style=for-the-badge&logo=html5&logoColor=E34F26)   
 <!-- 파이썬은 Shields에서 Simple Icons의 로고가 불러와지지 않음 -->
 ![](http://img.shields.io/badge/-VSC-black?style=for-the-badge&logo=VisualStudioCode&logoColor=007ACC)   ![](http://img.shields.io/badge/-eclipse-E8E8E8?style=for-the-badge&logo=EclipseIDE&logoColor=2C2255)   ![](http://img.shields.io/badge/-sql_developer-00A8E1?style=for-the-badge&logo=Oracle&logoColor=F80000)
