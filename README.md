@@ -5,7 +5,7 @@
 🌱 Explored in interested
 <br>
 <br>
-![Ruby](http://img.shields.io/badge/-ruby-CC342D?style=for-the-badge&logo=Ruby&logoColor=white)  
+![Ruby](http://img.shields.io/badge/-ruby-CC342D?style=for-the-badge&logo=Ruby&logoColor=white)  ![css](http://img.shields.io/badge/-CSS3-0078D4?style=for-the-badge&logo=css3&logoColor=white)  ![JS](http://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=2C2255)  
 
 ![Atom](http://img.shields.io/badge/-atom-green?style=for-the-badge&logo=Atom&logoColor=66595C)  ![Anaconda](http://img.shields.io/badge/-anaconda-black?style=for-the-badge&logo=anaconda&logoColor=44A833) 
 
