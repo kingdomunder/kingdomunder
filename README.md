@@ -15,7 +15,9 @@
 <br>
 
 <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=yellow">      ![HTML](http://img.shields.io/badge/-html-orange?style=for-the-badge&logo=html5&logoColor=E34F26)   ![Java](http://img.shields.io/badge/-java-E8E8E8?style=for-the-badge&logo=Java&logoColor=red) 
+
 <!-- 파이썬은 Shields에서 Simple Icons의 로고가 불러와지지 않음 -->
+
 ![VSC](http://img.shields.io/badge/-VSC-black?style=for-the-badge&logo=VisualStudioCode&logoColor=007ACC)   ![Eclipse](http://img.shields.io/badge/-eclipse-E8E8E8?style=for-the-badge&logo=EclipseIDE&logoColor=2C2255)   ![Oracle](http://img.shields.io/badge/-sql_developer-00A8E1?style=for-the-badge&logo=Oracle&logoColor=F80000)
 
 
