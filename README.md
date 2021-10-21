@@ -1,13 +1,16 @@
-<!-- 방문자 수 - hit -->
-<!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkingdomunder&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
-<!-- 방문자 수 - hit -->
+<!-- 방문자 수 - hit \
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkingdomunder&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
+![Ruby](http://img.shields.io/badge/-ruby-CC342D?style=for-the-badge&logo=Ruby&logoColor=white)   
+![Atom](http://img.shields.io/badge/-atom-green?style=for-the-badge&logo=Atom&logoColor=66595C)
+
+방문자 수 - hit -->
 
 🌱 Explored in interested
 <br>
 <br>
-![Ruby](http://img.shields.io/badge/-ruby-CC342D?style=for-the-badge&logo=Ruby&logoColor=white)  ![css](http://img.shields.io/badge/-CSS-0078D4?style=for-the-badge&logo=css3&logoColor=white)  ![JS](http://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=2C2255)  
+![CSS](http://img.shields.io/badge/-CSS-0078D4?style=for-the-badge&logo=css3&logoColor=white)  ![JS](http://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=2C2255)  
 
-![Atom](http://img.shields.io/badge/-atom-green?style=for-the-badge&logo=Atom&logoColor=66595C)  ![Anaconda](http://img.shields.io/badge/-anaconda-black?style=for-the-badge&logo=anaconda&logoColor=44A833) 
+  ![Anaconda](http://img.shields.io/badge/-anaconda-black?style=for-the-badge&logo=anaconda&logoColor=44A833) 
 
 
 <br>
