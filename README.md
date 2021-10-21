@@ -1,35 +1,41 @@
 <!-- 방문자 수 - hit \
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkingdomunder&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
-![Ruby](http://img.shields.io/badge/-ruby-CC342D?style=for-the-badge&logo=Ruby&logoColor=white)   
-![Atom](http://img.shields.io/badge/-atom-green?style=for-the-badge&logo=Atom&logoColor=66595C)
-
 방문자 수 - hit -->
 
-🌱 Explored in interested
+ <!--  ============================================ Frequently used ==================================================-->
+🌱 learned
+<br><br>
+![CSS](http://img.shields.io/badge/-CSS-0078D4?style=for-the-badge&logo=css3&logoColor=white)
 <br>
+![Spring](http://img.shields.io/badge/-spring-f2f2f2?style=for-the-badge&logo=spring&logoColor=6DB33F)
 <br>
-![CSS](http://img.shields.io/badge/-CSS-0078D4?style=for-the-badge&logo=css3&logoColor=white)  ![JS](http://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=2C2255)  
+![Anaconda](http://img.shields.io/badge/-anaconda-black?style=for-the-badge&logo=anaconda&logoColor=44A833)
 
-  ![Anaconda](http://img.shields.io/badge/-anaconda-black?style=for-the-badge&logo=anaconda&logoColor=44A833) 
-
-
+<!--  ============================================ Frequently used ================================================== -->
+🌼 learned && used
+<br><br>
+<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=ebdf00">
+<img alt="HTML" src ="https://img.shields.io/badge/HTML-ffc37a.svg?&style=for-the-badge&logo=Html5&logoColor=E34F26">
+<img alt="Java" src ="https://img.shields.io/badge/java-f2f2f2.svg?&style=for-the-badge&logo=Java&logoColor=ff4545">
+<img alt="Java_Script" src ="https://img.shields.io/badge/Java_Script-fff200.svg?&style=for-the-badge&logo=Javascript&logoColor=2C2255">
 <br>
-🌼 Frequently used
+<img alt="Vue.js" src ="https://img.shields.io/badge/vue.js-fff200.svg?&style=for-the-badge&logo=Vue.js&logoColor=4FC08D">
 <br>
-<br>
+<img alt="VSC" src ="https://img.shields.io/badge/VSC-black.svg?&style=for-the-badge&logo=VisualStudioCode&logoColor=007ACC">
+<img alt="Eclipse" src ="https://img.shields.io/badge/Eclipse-f2f2f2.svg?&style=for-the-badge&logo=Eclipse&logoColor=2C2255">
+<img alt="Oracle" src ="https://img.shields.io/badge/sql_developer-27b7e8.svg?&style=for-the-badge&logo=Oracle&logoColor=F80000">
 
-<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=yellow">      ![HTML](http://img.shields.io/badge/-html-orange?style=for-the-badge&logo=html5&logoColor=E34F26)   ![Java](http://img.shields.io/badge/-java-E8E8E8?style=for-the-badge&logo=Java&logoColor=red) 
-
-<!-- 파이썬은 Shields에서 Simple Icons의 로고가 불러와지지 않음 -->
-
-![VSC](http://img.shields.io/badge/-VSC-black?style=for-the-badge&logo=VisualStudioCode&logoColor=007ACC)   ![Eclipse](http://img.shields.io/badge/-eclipse-E8E8E8?style=for-the-badge&logo=EclipseIDE&logoColor=2C2255)   ![Oracle](http://img.shields.io/badge/-sql_developer-00A8E1?style=for-the-badge&logo=Oracle&logoColor=F80000)
-
-<!-- ✨  -->
-
-<!-- [![뱃지이름](http://img.shields.io/badge/language-swift-orange&logo=로고이름&logoColor=로고색&link=링크) -->
+<!--  ============================================ 뱀 api ==================================================-->
+![snake gif](https://github.com/kingdomunder/kingdomunder/blob/output/github-contribution-grid-snake.svg)
 
 
+<!--  ============================================ 참고 ==================================================-->
+<!--
+ [![뱃지이름](http://img.shields.io/badge/뱃지이름-배경색?style=for-the-badge&logo=로고이름&logoColor=로고색&link=링크)
 
+![Ruby](http://img.shields.io/badge/-ruby-CC342D?style=for-the-badge&logo=Ruby&logoColor=white)   
+![Atom](http://img.shields.io/badge/-atom-green?style=for-the-badge&logo=Atom&logoColor=66595C)
+-->
 
 
 <!--
@@ -49,4 +55,4 @@ Here are some ideas to get you started:
 
 
 
-![snake gif](https://github.com/kingdomunder/kingdomunder/blob/output/github-contribution-grid-snake.svg)
+
