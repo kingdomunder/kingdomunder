@@ -9,7 +9,7 @@
 <br>
 ![Spring](http://img.shields.io/badge/-spring-f2f2f2?style=for-the-badge&logo=spring&logoColor=6DB33F)
 <br>
-![Anaconda](http://img.shields.io/badge/-anaconda-black?style=for-the-badge&logo=anaconda&logoColor=44A833)
+
 
 <!--  ============================================ Frequently used ================================================== -->
 🌼 learned && used
@@ -35,6 +35,8 @@
 
 ![Ruby](http://img.shields.io/badge/-ruby-CC342D?style=for-the-badge&logo=Ruby&logoColor=white)   
 ![Atom](http://img.shields.io/badge/-atom-green?style=for-the-badge&logo=Atom&logoColor=66595C)
+![Anaconda](http://img.shields.io/badge/-anaconda-black?style=for-the-badge&logo=anaconda&logoColor=44A833)
+
 -->
 
 
