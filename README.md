@@ -15,7 +15,6 @@
 🌼 learned && used
 <br><br>
 <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=ebdf00">
-<img alt="HTML" src ="https://img.shields.io/badge/HTML-ffc37a.svg?&style=for-the-badge&logo=Html5&logoColor=E34F26">
 <img alt="Java" src ="https://img.shields.io/badge/java-f2f2f2.svg?&style=for-the-badge&logo=Java&logoColor=ff4545">
 <img alt="Java_Script" src ="https://img.shields.io/badge/Java_Script-fff200.svg?&style=for-the-badge&logo=Javascript&logoColor=2C2255">
 <br>
@@ -36,6 +35,7 @@
 ![Ruby](http://img.shields.io/badge/-ruby-CC342D?style=for-the-badge&logo=Ruby&logoColor=white)   
 ![Atom](http://img.shields.io/badge/-atom-green?style=for-the-badge&logo=Atom&logoColor=66595C)
 ![Anaconda](http://img.shields.io/badge/-anaconda-black?style=for-the-badge&logo=anaconda&logoColor=44A833)
+<img alt="HTML" src ="https://img.shields.io/badge/HTML-ffc37a.svg?&style=for-the-badge&logo=Html5&logoColor=E34F26">
 
 -->
 
