@@ -14,13 +14,13 @@
 <!--  ============================================ Frequently used ================================================== -->
 🌼 learned && used
 <br><br>
-<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=ebdf00">
+<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=f2f2f2">
 <img alt="Java" src ="https://img.shields.io/badge/java-f2f2f2.svg?&style=for-the-badge&logo=Java&logoColor=ff4545">
 <img alt="Java_Script" src ="https://img.shields.io/badge/Java_Script-fff200.svg?&style=for-the-badge&logo=Javascript&logoColor=2C2255">
 <br>
 <img alt="Vue.js" src ="https://img.shields.io/badge/vue.js-fff200.svg?&style=for-the-badge&logo=Vue.js&logoColor=4FC08D">
 <br>
-<img alt="VSC" src ="https://img.shields.io/badge/VSC-black.svg?&style=for-the-badge&logo=VisualStudioCode&logoColor=007ACC">
+<img alt="VSC" src ="https://img.shields.io/badge/VSC-black.svg?&style=for-the-badge&logo=VisualStudioCode&logoColor=5092bf">
 <img alt="Eclipse" src ="https://img.shields.io/badge/Eclipse-f2f2f2.svg?&style=for-the-badge&logo=Eclipse&logoColor=2C2255">
 <img alt="Oracle" src ="https://img.shields.io/badge/sql_developer-27b7e8.svg?&style=for-the-badge&logo=Oracle&logoColor=F80000">
 
