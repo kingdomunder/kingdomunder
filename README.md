@@ -17,9 +17,7 @@
 <img alt="Java" src ="https://img.shields.io/badge/java-f2f2f2.svg?&style=for-the-badge&logo=Java&logoColor=ff4545">
 <img alt="Java_Script" src ="https://img.shields.io/badge/Java_Script-fff200.svg?&style=for-the-badge&logo=Javascript&logoColor=2C2255">
 <br>
-
 <img alt="VSC" src ="https://img.shields.io/badge/VSC-black.svg?&style=for-the-badge&logo=VisualStudioCode&logoColor=5092bf">
-
 <img alt="Oracle" src ="https://img.shields.io/badge/sql_developer-27b7e8.svg?&style=for-the-badge&logo=Oracle&logoColor=F80000">
 
 <!--  ============================================ 뱀 api ==================================================-->
