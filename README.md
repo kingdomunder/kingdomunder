@@ -7,8 +7,7 @@
 <br><br>
 ![CSS](http://img.shields.io/badge/-CSS-0078D4?style=for-the-badge&logo=css3&logoColor=white)
 <br>
-![Spring](http://img.shields.io/badge/-spring-f2f2f2?style=for-the-badge&logo=spring&logoColor=6DB33F)
-<br>
+
 
 
 <!--  ============================================ Frequently used ================================================== -->
@@ -18,10 +17,9 @@
 <img alt="Java" src ="https://img.shields.io/badge/java-f2f2f2.svg?&style=for-the-badge&logo=Java&logoColor=ff4545">
 <img alt="Java_Script" src ="https://img.shields.io/badge/Java_Script-fff200.svg?&style=for-the-badge&logo=Javascript&logoColor=2C2255">
 <br>
-<img alt="Vue.js" src ="https://img.shields.io/badge/vue.js-fff200.svg?&style=for-the-badge&logo=Vue.js&logoColor=4FC08D">
-<br>
+
 <img alt="VSC" src ="https://img.shields.io/badge/VSC-black.svg?&style=for-the-badge&logo=VisualStudioCode&logoColor=5092bf">
-<img alt="Eclipse" src ="https://img.shields.io/badge/Eclipse-f2f2f2.svg?&style=for-the-badge&logo=Eclipse&logoColor=2C2255">
+
 <img alt="Oracle" src ="https://img.shields.io/badge/sql_developer-27b7e8.svg?&style=for-the-badge&logo=Oracle&logoColor=F80000">
 
 <!--  ============================================ 뱀 api ==================================================-->
@@ -37,6 +35,9 @@
 ![Anaconda](http://img.shields.io/badge/-anaconda-black?style=for-the-badge&logo=anaconda&logoColor=44A833)
 <img alt="HTML" src ="https://img.shields.io/badge/HTML-ffc37a.svg?&style=for-the-badge&logo=Html5&logoColor=E34F26">
 
+<img alt="Vue.js" src ="https://img.shields.io/badge/vue.js-fff200.svg?&style=for-the-badge&logo=Vue.js&logoColor=4FC08D">
+<img alt="Eclipse" src ="https://img.shields.io/badge/Eclipse-f2f2f2.svg?&style=for-the-badge&logo=Eclipse&logoColor=2C2255">
+![Spring](http://img.shields.io/badge/-spring-f2f2f2?style=for-the-badge&logo=spring&logoColor=6DB33F)
 -->
 
 
