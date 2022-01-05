@@ -2,13 +2,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkingdomunder&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
 방문자 수 - hit -->
 
- <!--  ============================================ Frequently used ==================================================-->
-🌱 learned
-<br><br>
-![CSS](http://img.shields.io/badge/-CSS-0078D4?style=for-the-badge&logo=css3&logoColor=white)
-<br>
-
-
 
 <!--  ============================================ Frequently used ================================================== -->
 🌼 learned && used
@@ -33,6 +26,7 @@
 ![Anaconda](http://img.shields.io/badge/-anaconda-black?style=for-the-badge&logo=anaconda&logoColor=44A833)
 <img alt="HTML" src ="https://img.shields.io/badge/HTML-ffc37a.svg?&style=for-the-badge&logo=Html5&logoColor=E34F26">
 
+![CSS](http://img.shields.io/badge/-CSS-0078D4?style=for-the-badge&logo=css3&logoColor=white)
 <img alt="Vue.js" src ="https://img.shields.io/badge/vue.js-fff200.svg?&style=for-the-badge&logo=Vue.js&logoColor=4FC08D">
 <img alt="Eclipse" src ="https://img.shields.io/badge/Eclipse-f2f2f2.svg?&style=for-the-badge&logo=Eclipse&logoColor=2C2255">
 ![Spring](http://img.shields.io/badge/-spring-f2f2f2?style=for-the-badge&logo=spring&logoColor=6DB33F)
