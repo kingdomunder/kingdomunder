@@ -1,6 +1,8 @@
 <!--  ================================== badge ================================================== -->
 ![Java](https://img.shields.io/badge/Java-adadad?&style=flat&logo=Java&logoColor=f2f2f2)
+<br>
 ![Python](https://img.shields.io/badge/Python-0078c2?&style=flat&logo=Python&logoColor=f2f2f2)
+![Flask](https://img.shields.io/badge/Flask-262626?&style=flat&logo=Flask&logoColor=f2f2f2)
 <br>
 ![JavaScript](https://img.shields.io/badge/Javascript-c9b900?&style=flat&logo=JavaScript&logoColor=f2f2f2)
 ![React](https://img.shields.io/badge/React-262626?style=flat&logo=React&logoColor=f2f2f2)
