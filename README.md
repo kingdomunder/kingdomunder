@@ -9,6 +9,8 @@
 
 ![OracleDB](https://img.shields.io/badge/Oracle_DB-adadad?&style=flat&logo=Oracle&logoColor=F80000)
 ![MySQL](https://img.shields.io/badge/MySQL-adadad?style=flat&logo=mysql&logoColor=#000000)
+<br>
+![AWS](https://img.shields.io/badge/AWS-db9a00?style=flat&logo=amazon-aws&logoColor=#000000)
 
 <!--  ================================== snake ================================================== -->
 ![snake gif](https://github.com/kingdomunder/kingdomunder/blob/output/github-contribution-grid-snake.svg)
